@@ -1,1 +1,1 @@
-# Currency-Convertor
+The Currency Converter is a web application designed to simplify the process of converting amounts between different currencies. Built with React and Tailwind CSS, this tool provides a clean and user-friendly interface for seamless currency exchange.
